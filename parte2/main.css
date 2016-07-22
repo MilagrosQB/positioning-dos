@@ -1,0 +1,30 @@
+body {
+	margin:0px;
+	padding:0px;
+}
+.bloque-azul{
+	width: 400px;
+	height: 400px;
+	background:#0048FB;
+	position:relative;
+}
+.bloque-verde{
+	width: 200px;
+	height: 200px;
+	background:#387804;
+	position:absolute;
+	top:100px;
+	bottom:0px;
+	right:0px;
+	left:100px;
+}
+.bloque-negro{
+	width: 100px;
+	height: 100px;
+	background:#000000;
+	position:absolute;
+	top:0px;
+	bottom:0px;
+	right:0px;
+	left:0px;
+}
